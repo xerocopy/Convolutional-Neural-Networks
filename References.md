@@ -1,5 +1,5 @@
-References
-W​eek 1:
+References \n
+W​eek 1:\n
 The Sequential model [(TensorFlow Documentation)](https://www.tensorflow.org/guide/keras/sequential_model)
 
 The Functional API (TensorFlow Documentation)
