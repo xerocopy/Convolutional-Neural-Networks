@@ -30,7 +30,7 @@ W​eek 3:
 
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) (Ronneberger, Fischer & Brox, 2015) 
 
-W​eek 4:
+#### W​eek 4:
 [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf) (Schroff, Kalenichenko & Philbin, 2015) 
 
 [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://research.facebook.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf) (Taigman, Yang, Ranzato & Wolf) 
