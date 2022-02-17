@@ -41,7 +41,7 @@
 
 [k​eras-facenet/notebook/tf_to_keras.ipynb](https://github.com/nyoki-mtl/keras-facenet/blob/master/notebook/tf_to_keras.ipynb) (GitHub: nyoki-mtl) 
 
-[A Neural Algorithm of Artistic Style] (Gatys, Ecker & Bethge, 2015)(https://arxiv.org/abs/1508.06576)
+[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) (Gatys, Ecker & Bethge, 2015)
 
 [Convolutional neural networks for artistic style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 
