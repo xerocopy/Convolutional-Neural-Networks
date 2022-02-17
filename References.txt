@@ -1,5 +1,5 @@
 References
-W​eek 1:
+[W​eek 1:]()
 The Sequential model (TensorFlow Documentation)
 
 The Functional API (TensorFlow Documentation)
